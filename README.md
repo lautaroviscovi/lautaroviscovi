@@ -4,4 +4,5 @@ I'm Lautaro! -  Software Developer, with a passion for technology and learning. 
 If you want to talk to me you can write to me at 📩 lautaroviscovi@gmail.com
 
 🖌 [**Personal Landing Page**](https://lautaroviscovi.github.io/lautaroaviscovi)
+
 🖌 [**LinkedIn**](https://linkedin.com/in/lautaro-viscovi)
