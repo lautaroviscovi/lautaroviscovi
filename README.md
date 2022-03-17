@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
-- 🔭 I’m currently working on [Zenda.la](zenda.la)
+- 🔭 I’m currently working on [zenda.la](https://zenda.la)
 
-- 👨‍💻 All of my projects are available at [https://github.com/lautaroviscovi](https://github.com/lautaroviscovi)
+- 👨‍💻 All of my projects are available at [lautaroviscovi](https://github.com/lautaroviscovi)
 
 - 💬 Ask me about **AWS, Kubernetes, NodeJS**
 
