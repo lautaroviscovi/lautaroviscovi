@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 
-- 🔭 I’m currently working on [zenda.la](https://zenda.la)
+- 🔭 I’m currently working at [zenda.la](https://zenda.la)
 
 - 👨‍💻 All of my projects are available at [lautaroviscovi](https://github.com/lautaroviscovi)
 
@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lautaro-viscovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-viscovi" height="30" width="40" /></a>
-<a href="https://instagram.com/lautaroviscovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lautaroviscovi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
