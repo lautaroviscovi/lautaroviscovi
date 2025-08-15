@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 
-- 🔭 I’m currently working at [zenda.la](https://zenda.la)
+- 🔭 I’m currently working at [Flux It](https://fluxitsoft.com)
 
 - 👨‍💻 All of my projects are available at [lautaroviscovi](https://github.com/lautaroviscovi)
 
